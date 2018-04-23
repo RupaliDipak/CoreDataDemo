@@ -20,6 +20,11 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
-
+    @IBAction func btnClick(_ sender: Any)
+    {
+        print("This is git demo")
+        print("My core data demo")
+    }
+    
 }
 
